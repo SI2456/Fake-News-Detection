@@ -37,7 +37,7 @@ fake news/
 pip install -r requirements.txt
 python train.py
 python predict.py "Scientists confirm the earth is flat, NASA lied!"
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ## Using the Real Dataset (recommended for submission)
